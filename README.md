@@ -27,4 +27,5 @@ Of the total tests conducted, the number of positive cases was 704.75 million.
 The USA led the tally with the highest number of cases of COVID-19 with 111.82 Million cases. They also led the other parts of the analysis for Total Tests per country, Total recoveries per Country, and Total Deaths per Country. 
 
 
-
+## References
+This Data Analysis was created by John Mark Corpuz
