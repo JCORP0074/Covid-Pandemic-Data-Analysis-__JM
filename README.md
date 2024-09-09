@@ -1,6 +1,6 @@
 # Covid Data Analysis 
 
-This Data Analysis provides insights into the Covid pandemic 3 years ago from 2020 to 2023.
+This Data Analysis provides insights into the Covid pandemic 3 years ago from 2020 to 2023. The data visualization for this analysis is also posted together with this readme file. The name of the file is Project7. For better experience of the dashboard, Its best to use the most updated version of PowerBI. Otherwise, Some of the features may not be shown or available and may indicate an error.
 
 ## Steps Followed:
 The process in this data analysis is as follows:
